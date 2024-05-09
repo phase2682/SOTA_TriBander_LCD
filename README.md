@@ -1,2 +1,2 @@
 # SOTA_TriBander_LCD
-Adding LCD to the SOTA  Tri-Bander CW transceiver
+Replacing the LED display with a LCD on the SOTA  Tri-Bander CW transceiver
